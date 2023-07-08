@@ -1,1 +1,2 @@
 # pythonjupyternb
+.gitignore
